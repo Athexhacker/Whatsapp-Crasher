@@ -14,8 +14,8 @@ this tool allow an attacker to conduct DOS attack against whatsapp user, whatsap
 
 <div align='center'>
  
-![Crashed](/whatsapp-crasher/Screenshot_a.png)
-![Crashed_](https://github.com/Athexhacker/Whats-Crasher/blob/main/Screenshot_b.png)
+![Crashed](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHu6I-Crawsb2RatKeiZlbk3-fjqS0UD-aBA&s)
+
 
 </div>
 
